@@ -12,4 +12,4 @@ Nota: Para realizar este implementación debe tener una cuenta AWS ya sea profes
 
 # Referencias en las que me base para realiza la implementación.
 
-Video en que me base [Aqui](https://youtu.be/ASqABCaoegs "Aqui")
+Video en que me base [AWS - Cloudfront/CDN - Aplicaciones en la nube](https://youtu.be/ASqABCaoegs "AWS - Cloudfront/CDN - Aplicaciones en la nube")
