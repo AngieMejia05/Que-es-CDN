@@ -1,5 +1,5 @@
 # Que-es-CDN
-Bienvenido al repositorio de Angie Mejía
+## Bienvenido al repositorio de Angie Mejía
 
 **Implementación básica de un CDN en AWS**
 Nota: Para realizar este implementación debe tener una cuenta AWS ya sea profesional o educativa.
